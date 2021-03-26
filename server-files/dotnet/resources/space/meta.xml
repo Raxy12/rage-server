@@ -1,0 +1,5 @@
+<meta>
+    <info name="space" description="spacescript" />
+ 
+    <script src="space.dll" />
+</meta>

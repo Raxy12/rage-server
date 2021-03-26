@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "space": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\WindowsPC\\Desktop\\rage-server\\server-files\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\WindowsPC\\Desktop\\rage-server\\server-files"
+    }
+  }
+}
